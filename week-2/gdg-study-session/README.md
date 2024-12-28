@@ -25,11 +25,5 @@ Each member's name is displayed in a styled list, and the page is fully responsi
 Follow these steps to get the project up and running on your local machine:
 
 ### 1. Clone the repository:
-
 ```bash
- git clone https://github.com/dagm24/GDG_Study_Session.git
-
-
-
-
-
+    git clone https://github.com/dagm24/GDG_Study_Session.git
