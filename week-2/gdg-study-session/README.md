@@ -30,17 +30,6 @@ Follow these steps to get the project up and running on your local machine:
  git clone https://github.com/dagm24/GDG_Study_Session.git
 
 
-  ### 2. Navigate to the project directory:
-
-```bash
-cd GDG_Study_Session
-
-### 3. Install dependencies:
-
-```bash
-npm install
-
-
 
 
 
