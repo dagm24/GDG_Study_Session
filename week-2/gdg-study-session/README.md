@@ -27,10 +27,10 @@ Follow these steps to get the project up and running on your local machine:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dagm24/GDG_Study_Session.git
+ git clone https://github.com/dagm24/GDG_Study_Session.git
 
 
-### 2. Navigate to the project directory:
+  ### 2. Navigate to the project directory:
 
 ```bash
 cd GDG_Study_Session
@@ -40,7 +40,7 @@ cd GDG_Study_Session
 ```bash
 npm install
 
-## Usage
+
 
 
 
